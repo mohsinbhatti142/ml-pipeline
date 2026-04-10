@@ -1,0 +1,4 @@
+1: Create a github repo and clone it in a local 
+2: Add src folder along with all componets(run them individually)
+3: Add data, models, reports directories to .gitignore file
+4: now git add, commit, push
