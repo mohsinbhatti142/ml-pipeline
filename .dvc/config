@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = dvcstoredata
+['remote "dvcstoredata"']
+    url = s3://ml-pipeline-mlops-142
